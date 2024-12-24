@@ -1,7 +1,3 @@
-Here's an updated README file with a section for the `test/test_bid_request.json` file:
-
----
-
 # Real-Time Bidding (RTB) Application
 
 This project is a Real-Time Bidding (RTB) server application designed to receive bid requests, process them against predefined campaigns, and return a suitable response with the selected campaign details.
