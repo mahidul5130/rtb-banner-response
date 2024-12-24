@@ -330,6 +330,9 @@ If no campaign is suitable:
   "status": "error"
 }
 ```
+
+![Bid Request](screenshots/found.png "Sample Bid Request (Campaign Found)")
+![Bid Request](screenshots/not__found.png "Sample Bid Request (Campaign Found)")
 ---
 
 ## Endpoints
