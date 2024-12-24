@@ -44,7 +44,7 @@ RTB
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
-   cd RTB
+   cd rtb-banner-response
    ```
 
 2. **Set up a local server:**
