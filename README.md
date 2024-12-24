@@ -356,5 +356,4 @@ Feel free to contribute to this project by submitting issues or pull requests. E
 
 ## Author
 
-Name: Md. Mahidul Haque
-Email: mahidul5130@gmail.com
+Md. Mahidul Haque (mahidul5130@gmail.com)
