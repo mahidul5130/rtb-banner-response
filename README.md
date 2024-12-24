@@ -43,7 +43,7 @@ RTB
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mahidul5130/rtb-banner-response.git
    cd rtb-banner-response
    ```
 
