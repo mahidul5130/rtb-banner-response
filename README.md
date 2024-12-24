@@ -95,17 +95,17 @@ You can use the test bid request JSON file as a sample payload. The file is loca
 If a suitable campaign is found:
 ```json
 {
-  "id": "123456",
+  "id": "myB92gUhMdC5DUxndq3yAg",
   "seatbid": [
     {
       "bid": [
         {
           "id": "118965F12BE33FB7E",
-          "impid": "123456",
+          "impid": "myB92gUhMdC5DUxndq3yAg",
           "price": 0.1,
           "adid": 167629,
-          "nurl": "https://adplaytechnology.com/",
-          "adm": "https://s3-ap-southeast-1.amazonaws.com/elasticbeanstalk-ap-southeast-15410920200615/CampaignFile/20240117030213/D300x250/e63324c6f222208f1dc66d3e2daaaf06.png",
+          "nurl": "https=>//adplaytechnology.com/",
+          "adm": "https=>//s3-ap-southeast-1.amazonaws.com/elasticbeanstalk-ap-southeast-15410920200615/CampaignFile/20240117030213/D300x250/e63324c6f222208f1dc66d3e2daaaf06.png",
           "crid": 167629,
           "w": 320,
           "h": 480
