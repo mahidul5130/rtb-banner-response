@@ -6,7 +6,7 @@ class ResponseGenerator
 {
     public static function generate(array $bidRequest, array $selectedCampaign): array
     {
-        return [
+        $data = [
             'id' => $bidRequest['id'],
             'seatbid' => [
                 [
@@ -26,6 +26,22 @@ class ResponseGenerator
                 ]
             ],
             'cur' => 'USD'
+        ];
+
+        return [
+            'msg'    => 'Campaign selected successfully',
+            'code'   => 200,
+            'status' => 'success',
+            'data'   => $data
+        ];
+    }
+
+    public static function generateError(string $msg, int $errorCode): array
+    {
+        return [
+            'msg'    => $msg,
+            'code'   => $errorCode,
+            'status' => 'error'
         ];
     }
 }
