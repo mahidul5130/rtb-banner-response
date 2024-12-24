@@ -1,0 +1,19 @@
+{
+  "id": "test-bid-request",
+  "imp": [
+    {
+      "id": "1",
+      "banner": {
+        "w": 320,
+        "h": 480
+      },
+      "bidfloor": 0.05
+    }
+  ],
+  "device": {
+    "geo": {
+      "country": "Bangladesh"
+    },
+    "devicetype": "Mobile"
+  }
+}
